@@ -1,5 +1,4 @@
 use std::ops::Add;
-
 // TODO: Define a new `SaturatingU16` type.
 //   It should hold a `u16` value.
 //   It should provide conversions from `u16`, `u8`, `&u16` and `&u8`.
